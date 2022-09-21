@@ -1,4 +1,8 @@
 
+#erro {
+  color: rgb(171, 29, 29);
+}
+
 #id_endereco_destino{
   display: none;
 }
